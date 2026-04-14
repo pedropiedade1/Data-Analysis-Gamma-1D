@@ -15,17 +15,8 @@ build/
 dist/
 *.spec
 
-# Dados clínicos / arquivos grandes
-*.snctxt
-*.rfb
-*.mcc
-*.dta
-*.ALL
-*.sncxml
-*.pdf
-*.zip
-*.PNG
-*.png
+# Pasta de dados brutos do curso (excluída intencionalmente)
+CRUSO SRS E2E/dados/
 
 # IDE
 .vscode/
